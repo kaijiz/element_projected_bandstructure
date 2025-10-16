@@ -25,4 +25,4 @@ else:  # skip ahead to next kpoint:
 Then, save and exit and you can use this code.
 
 
-### the name of the kpoints and element you need to set by yourself.
+### The name of the kpoints and element you need to set by yourself.
